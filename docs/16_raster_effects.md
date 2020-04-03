@@ -1,1 +1,6 @@
-# Chapter 16. Raster effects {#page_rasters}
+# Raster effects
+
+[TOC]
+
+## Summary
+This is a quick reference of related functions in this chapter:

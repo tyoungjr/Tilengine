@@ -1,11 +1,14 @@
-# Chapter 11. Tilemaps {#page_tilemaps}
+# Tilemaps
+
 [TOC]
-# Tilemaps {#tilemaps}
 
-## Load from file {#tilemaps_load}
+## Load from file
 
-## Create at runtime {#tilemaps_create}
+## Create at runtime
 
-## Manipulating tiles {#tilemaps_modify}
+## Manipulating tiles
 
-## Delete {#tilemaps_delete}
+## Delete
+
+## Summary
+This is a quick reference of related functions in this chapter:

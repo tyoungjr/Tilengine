@@ -1,13 +1,16 @@
-# Chapter 15. Bitmaps {#page_bitmaps}
+# Bitmaps
+
 [TOC]
-# Bitmaps {#bitmaps}
 
-## Load from file {#bitmaps_load}
+## Load from file
 
-## Create at runtime {#bitmaps_create}
+## Create at runtime
 
-## Accessing pixel data {#bitmaps_pixels}
+## Accessing pixel data
 
-## Getting info {#bitmaps_info}
+## Getting info
 
-## Delete {#bitmaps_delete}
+## Delete
+
+## Summary
+This is a quick reference of related functions in this chapter:

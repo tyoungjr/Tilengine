@@ -1,7 +1,10 @@
-# Chapter 09. Blending {#page_blending}
+# Blending
+
 [TOC]
-# Blending {#blending}
 
-## Types of blending {#blending_types}
+## Types of blending
 
-## Custom blending {#blending_custom}
+## Custom blending
+
+## Summary
+This is a quick reference of related functions in this chapter:

@@ -1,13 +1,16 @@
-# Chapter 14. Sequences & seqpacks {#page_sequences}
+# Sequences & sequence packs
+
 [TOC]
-# Sequences & seqpacks {#sequences}
 
-## The sqx file format {#sequences_sqx}
+## The sqx file format
 
-## Load from file {#sequences_load}
+## Load from file
 
-## Create at runtime {#sequences_create}
+## Create at runtime
 
-## Adding and retrieving sequences {#sequences_get}
+## Adding and retrieving sequences
 
-## Delete {#sequences_delete}
+## Delete
+
+## Summary
+This is a quick reference of related functions in this chapter:
